@@ -16,8 +16,6 @@ class Config {
 
 }
 
-//console.log(Config)
-
 module.exports = {
     Config
 }

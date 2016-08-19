@@ -1,0 +1,11 @@
+{
+  "rules": {
+    "rock": ["scissors","sponge","fire"],
+    "water": ["rock","fire","scissors"],
+    "air":["water","rock","fire"],
+    "paper": ["rock","air","water"],
+    "sponge":["paper","air","water"],
+    "scissors": ["paper","sponge","air"],
+    "fire":["scissors","sponge","paper"]
+  }
+}
